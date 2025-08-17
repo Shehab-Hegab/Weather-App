@@ -6,6 +6,10 @@ A modern, responsive weather application built with Next.js 14, TypeScript, and 
 
 This project fulfills **Tech Assessment 1** requirements for the AI Engineer Intern position, demonstrating technical aptitude in building a comprehensive weather application with real-time API integration and user-friendly location input handling.
 
+# Task-1
+https://github.com/user-attachments/assets/eccdd5b4-7bb4-4847-903e-2780d8d6d45e
+
+#####
 ## ✨ Features
 
 ### Core Requirements ✅
