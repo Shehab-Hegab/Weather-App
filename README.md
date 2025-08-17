@@ -1,6 +1,11 @@
 # Meteo-nix
 <img width="1980" alt="Screenshot 2023-10-29 at 13 39 22" src="https://github.com/DariusLukasukas/nextjs-weather-app/assets/64962012/dcad0360-77b0-4f70-bc2e-0c0bf04c1d8c">
 
+<img width="1213" height="1023" alt="image" src="https://github.com/user-attachments/assets/653bdd3c-b4a3-481f-bc4a-7097959ab69e" />
+
+<img width="1247" height="1027" alt="image" src="https://github.com/user-attachments/assets/639b6ab1-77e0-4c1f-ba6a-6dffcba334b3" />
+
+
 ## Overview
 Welcome to Meteo-nix, a meticulously crafted weather app that levereges cutting-edge technologies. Powered by Next.js 14, TypeScript,Tailwind CSS and the elegance of Shadcn UI library, it delivers a seamless weather experience.✨ It also leverages React Hotkeys Hook for smooth theme transitions and a versatile command menu, React Map GL for Mapbox map integration, and provides intelligent places autocomplete suggestions powered by Google Maps Places API.
 
